@@ -1,9 +1,7 @@
-# HelloWorld
-My first repository on GitHub. 
-## NAME_OF_YOUR_APP_HERE
+## HelloWorld
 
 ### App Description
-`TODO://` Add app description
+`TODO://` Click on the text color to change "Hello From Charlie!" color to orange. 
 
 ### App Walk-though
 <img src=https://i.imgur.com/0iR2zeJ.gif width=200><br>
