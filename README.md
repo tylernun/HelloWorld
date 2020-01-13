@@ -1,7 +1,7 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Click on the text color to change "Hello From Charlie!" color to orange. 
+Click on the text color to change "Hello From Charlie!" color to orange. 
 
 ### App Walk-though
 <img src=https://i.imgur.com/0iR2zeJ.gif width=200><br>
